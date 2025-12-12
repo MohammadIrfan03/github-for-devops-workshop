@@ -1,0 +1,57 @@
+some git commands :
+   git status
+    git status
+    git add testing.py
+    git status
+    git rm --cached testing.py
+    git status
+    git add .
+    git status
+    git commit -m "added testing files"
+    git status
+    git commit -m "added testing files"
+    git config --global user.name "mohammadirfan"
+    git config --global user.email "ashrafirfan@gmail.com"
+    git commit -m "added testing files"
+    git status
+    rm testing.py
+    ls
+    git status
+    git restore testing.py
+    git status
+    git init
+  ls -l
+  ls -al
+  echo >file1
+  ls
+  nano file1
+  cat file1
+  git add .
+  git status
+  git commit -m "my first file"
+  git status
+  ls
+  rm file1
+  ls
+  git status
+  git restore file1
+  ls
+  cat file1
+  git status
+  git config --list
+  git log
+  git remot -v
+  git remote -v
+  git remote add origin https://github.com/MohammadIrfan03/github-for-devops-workshop.git
+  git remote -v
+    git push origin master
+    git remote set-url origin https://github.com/MohammadIrfan03/github-for-devops-workshop.git 
+    git remote -v
+    git push origin master
+    touch >newfile
+    ls
+    vi newfile
+  git add newfile
+  git lo
+  git push origin master
+  some modifications done
