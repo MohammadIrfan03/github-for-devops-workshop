@@ -57,4 +57,4 @@ some git commands :
   some modifications done
   more new modifications done
   this change is from vs code  
-now this change from github
+now this change from github.
